@@ -49,3 +49,14 @@
     background-color: black;
     color: #08f9e2;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(to left, #00fcd1, #5531ff);
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 2px;
+}
